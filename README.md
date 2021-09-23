@@ -1,9 +1,9 @@
-<h1 align="center">Hi there 👋 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Paulo</h1>
-<h3 align="center"> I'm devoted to writting better frontend code everyday</h3>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Paulo</h1>
+<h3 align="center"> I'm devoted to writing better front-end code every day</h3>
 
 ## 🙋‍♂️ About Me
 
-🔭 I’m currently working at Criptonomia, a brazilian startup focused on blockchain development
+🔭 I’m currently working at Criptonomia, a Brazilian startup focused on blockchain development
 
 :beginner: My main development languages are Vue and React, and I also develop in TypeScript and Solidity
 

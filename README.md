@@ -7,7 +7,7 @@
 
 :beginner: My main development languages are Vue and React, and I also develop in TypeScript and Solidity
 
-:mega: Portuguese is my main tongue, I speak English fluently, Spanish in high level and also mid-level Danish
+:mega: Portuguese is my main tongue, I speak English fluently, Spanish at high level, and also mid-level Danish
 
 :desktop_computer: I code since I was 15, and started working as a developer in 2019
 
@@ -35,7 +35,7 @@
 
 <p align="center">
     <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhamRaoniar28&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Paulottavaress's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Paulottavaress&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
@@ -43,7 +43,7 @@
 
   <br/>
     <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Paulottavaress's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Paulottavaress&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Paulottavaress's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamRaoniar28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Paulottavaress's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulottavaress&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
 <a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Paulottavaress's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Paulottavaress&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>

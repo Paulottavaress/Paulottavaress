@@ -7,7 +7,7 @@
 
 :beginner: My main development languages are Vue and React, and I also develop in TypeScript and Solidity
 
-:mega: Portuguese is my main tongue, I speak English fluently, Spanish at high level, and also mid-level Danish
+:mega: Portuguese is my main tongue, I speak English fluently and mid-level Spanish and Danish
 
 :desktop_computer: I code since I was 15, and started working as a developer in 2019
 

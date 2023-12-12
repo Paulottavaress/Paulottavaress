@@ -1,17 +1,15 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Paulo</h1>
-<h3 align="center"> I'm devoted to writing better front-end code every day</h3>
+<h3 align="center"> I am passionate about what I do every day, and I feel very lucky because of that. </h3>
 
 ## 🙋‍♂️ About Me
 
-💼 I’m currently working at Criptonomia, a Brazilian startup focused on blockchain development
+💼 I’m currently working at Orbee, an American Marketing Automotive Company
 
-:beginner: My main development languages are Vue and React, and I also develop in TypeScript and Solidity
+:beginner: I am a JavaScript specialist. I have experience working with all major JS/TS FE frameworks/libraries, including web3 development, as well as BE development in Node/Express.
 
-:mega: Portuguese is my main tongue, I speak English fluently and mid-level Spanish and Danish
+:mega: Portuguese is my main tongue, I speak English fluently, mid-level Spanish and Danish, and currently learning French
 
-:desktop_computer: I code since I was 15, and started working as a developer in 2019
-
-💖 I Love Open Source Projects
+:desktop_computer: I code since I was 15, and started working as a developer in 2020
 
 👨‍💻 Most of my projects are available at https://github.com/Paulottavaress
 

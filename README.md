@@ -1,5 +1,5 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Paulo</h1>
-<h3 align="center"> I am passionate about what I do every day, and I feel very lucky because of that. </h3>
+<h3 align="center"> I am passionate about what I do every day, and I feel fortunate because of that. </h3>
 
 ## 🙋‍♂️ About Me
 
@@ -7,9 +7,9 @@
 
 :beginner: I am a JavaScript specialist. I have experience working with all major JS/TS FE frameworks/libraries, including web3 development, as well as BE development in Node/Express.
 
-:mega: Portuguese is my main tongue, I speak English fluently, mid-level Spanish and Danish, and currently learning French
+:mega: Portuguese is my mother tongue, I speak English fluently, mid-level Spanish and Danish, and currently learning French
 
-:desktop_computer: I code since I was 15, and started working as a developer in 2020
+:desktop_computer: I have coded since I was 15, and started working as a developer in 2020
 
 👨‍💻 Most of my projects are available at https://github.com/Paulottavaress
 
